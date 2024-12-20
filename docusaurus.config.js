@@ -33,14 +33,14 @@ const config = {
   ],
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Pojavlauncher Wiki',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Pojavlauncher',
+        src: 'images/icon.svg',
       },
       items: [
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/PojavLauncherTeam/PojavLauncher',
           label: 'GitHub',
           position: 'right',
         },
