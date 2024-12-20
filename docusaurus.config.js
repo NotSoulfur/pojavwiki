@@ -120,6 +120,6 @@ const config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-  });
+  }),
 
 export default config;
