@@ -36,7 +36,7 @@ const config = {
       title: 'Pojavlauncher Wiki',
       logo: {
         alt: 'Pojavlauncher',
-        src: 'images/icon.svg',
+        src: 'img/pojavlauncher.svg',
       },
       items: [
         {
