@@ -50,7 +50,7 @@ const config = {
       style: 'dark',
       links: [
         {
-          title: 'Community',
+          title: 'Quick Links',
           items: [
             {
               label: 'Discord',
@@ -60,11 +60,6 @@ const config = {
               label: 'X',
               href: 'https://x.com/docusaurus',
             },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
@@ -72,7 +67,7 @@ const config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Powered by Docusaurus`,
     },
     prism: {
       theme: prismThemes.github,
