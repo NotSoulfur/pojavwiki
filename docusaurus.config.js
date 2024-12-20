@@ -43,6 +43,11 @@ const config = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          href: './docs/Installation/intro.md',
+          label: 'Get Started',
+          position: 'right',
+        },
       ],
     },
     footer: {
