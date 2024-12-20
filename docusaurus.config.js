@@ -1,9 +1,9 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Pojavlauncher',
+  tagline: 'A flexible, fast and open-source Minecraft Java Edition launcher for Android and iOS',
+  favicon: 'img/pojavlauncher.ico',
   url: 'https://github.com',
   baseUrl: '/pojavwiki/',
   organizationName: 'NotSoulfur',
