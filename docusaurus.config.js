@@ -44,7 +44,7 @@ const config = {
           position: 'right',
         },
         {
-          href: '/pojavwiki/Installation/intro.md',
+          href: '/Installation/intro.md',
           label: 'Get Started',
           position: 'right',
         },
