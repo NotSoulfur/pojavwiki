@@ -5,7 +5,7 @@ const config = {
   tagline: 'A flexible, fast and open-source Minecraft Java Edition launcher for Android and iOS',
   favicon: 'img/pojavlauncher.ico',
   url: 'https://github.com',
-  baseUrl: '/pojavwiki/',
+  baseUrl: '/pojavwiki/intro',
   organizationName: 'NotSoulfur',
   projectName: 'pojavwiki',
   deploymentBranch: 'gh-pages',
